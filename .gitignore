@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# Database files
+*.duckdb
+*.duckdb.wal
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Build outputs
+*.png
+*.jpg
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env

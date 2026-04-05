@@ -43,3 +43,10 @@ See `requirements.txt`
 ## Disclaimer
 This project is for educational purposes only. Nothing here constitutes
 financial advice or a recommendation to trade any security.
+
+## Development Notes
+Built as part of a structured SQL learning track, using Claude as an
+interactive coding assistant. All technical decisions, debugging, and
+concept validation were done collaboratively — the focus was on
+understanding SQL window functions, DuckDB, and quantitative finance
+concepts rather than generating code blindly.
